@@ -1,6 +1,8 @@
 # CS3113Project6
 This is my Project 6 work for CS 3113
 
+(There is a slight chance that some of the files got corrupted when I moved them to Github. If the game has any problems running, please email me at mcr517@nyu.edu so that I can send you the zip file of the game instead). 
+
 Instructions:
 
 Run main.cpp to run the game.
