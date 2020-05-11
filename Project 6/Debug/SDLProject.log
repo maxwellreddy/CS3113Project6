@@ -1,0 +1,11 @@
+﻿  Entity.cpp
+C:\Users\acer\Desktop\CS 3113\Project 6\Entity.cpp(38,17): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\acer\Desktop\CS 3113\Project 6\Entity.cpp(232,30): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\acer\Desktop\CS 3113\Project 6\Entity.cpp(233,30): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\acer\Desktop\CS 3113\Project 6\Entity.cpp(237,29): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\acer\Desktop\CS 3113\Project 6\Entity.cpp(238,29): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\acer\Desktop\CS 3113\Project 6\Entity.cpp(290,30): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\acer\Desktop\CS 3113\Project 6\Entity.cpp(291,30): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\acer\Desktop\CS 3113\Project 6\Entity.cpp(295,29): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\acer\Desktop\CS 3113\Project 6\Entity.cpp(296,29): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+  SDLProject.vcxproj -> C:\Users\acer\Desktop\CS 3113\Project 6\Debug\SDLProject.exe
